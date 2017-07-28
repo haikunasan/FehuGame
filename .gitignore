@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+.vs/FehuGame/v14/.suo
+FehuGame.VC.db
