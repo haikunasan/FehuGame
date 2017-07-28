@@ -32,3 +32,10 @@
 *.app
 .vs/FehuGame/v14/.suo
 FehuGame.VC.db
+
+Debug
+FehuGame/Debug
+FehuGame/Engine
+FehuGame/Exanple
+FehuGame/FehuGame.vcxproj
+FehuGame/FehuGame.vcxproj.filters
